@@ -12,3 +12,13 @@ A classic Tic-Tac-Toe game built using **HTML**, **CSS**, and **JavaScript** as 
 - Simple and intuitive user interface.
 
 ---
+
+## Project Goals 🏆
+- Practice DOM manipulation and event handling in JavaScript.
+- Implement modular programming using functions.
+  
+---
+## Installation & Setup 💻
+To run the project locally:
+1. Clone the repository:
+   ` git clone https://github.com/chamroy/tic-tac-toe-TheOdinProject.git`
