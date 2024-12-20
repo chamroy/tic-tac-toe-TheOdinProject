@@ -23,3 +23,6 @@ To run the project locally:
 1. Clone the repository:
    ``` bash
     git clone https://github.com/chamroy/tic-tac-toe-TheOdinProject.git
+2. Navigate to the project folder:
+    ```bash
+    cd tic-tac-toe-TheOdinProject
