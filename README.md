@@ -29,3 +29,4 @@ To run the project locally:
 
   ---
   ## Acknowledgments 🙌
+  This project is inspired by the curriculum from The Odin Project. Special thanks to the open-source community for tools and learning resources.
