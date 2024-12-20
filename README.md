@@ -21,4 +21,5 @@ A classic Tic-Tac-Toe game built using **HTML**, **CSS**, and **JavaScript** as 
 ## Installation & Setup 💻
 To run the project locally:
 1. Clone the repository:
-   ` git clone https://github.com/chamroy/tic-tac-toe-TheOdinProject.git`
+   ``` bash
+    git clone https://github.com/chamroy/tic-tac-toe-TheOdinProject.git
